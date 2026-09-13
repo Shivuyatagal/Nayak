@@ -1,2 +1,2 @@
-# Nayak
+# Simple Code
 New Repo
